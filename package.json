@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/vialer/vue-compiler-gulp#readme",
   "dependencies": {
-    "@vialer/vue-compiler": "1.0.x",
+    "@vialer/vue-compiler": "https://github.com/helixge/vue-compiler.git",
     "event-stream": "3.1.x",
     "gulp-concat-util": "0.5.x",
     "gulp-util": "3.0.x",
